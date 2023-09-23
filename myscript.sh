@@ -17,5 +17,5 @@ set John Doe
 fi
 echo "This shell script prints your last name followed by your first name."
 echo "Last Name: $2  first Name: $1"
-
+echo "Last Name: $2  first Name: $1"
 
